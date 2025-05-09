@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-A research data scientist with a Ph.D. in physics. In recent years, I have focused on Machine Learning applications to solve challenging problems. My preferred programming languages are Python and SQL. I have 5 years of experience in Python and 2 years of experience in SQL.  I’m very familiar with ML skills such as Sci-Kit Learn, Pytorch, Pandas, Numpy, Streamlit, Flask, Git, etc. I have 2 years of experience in cloud calculations, like AWS. I am a certified AWS developer associate and solution architect associate.
+A research data scientist with a Ph.D. in physics. In recent years, I have focused on Machine Learning applications to solve challenging problems with predictive modeling, risk assessment, and big data. My preferred programming languages are Python and SQL. I have 5 years of experience in Python and 2 years of experience in SQL.  I’m very familiar with ML skills such as Sci-Kit Learn, Pytorch, Pyspark, Pandas, Numpy, Streamlit, Flask, Git, etc. I have 2 years of experience in cloud calculations, like AWS. I am a certified AWS developer associate and solution architect associate.
 
+linkedin: https://www.linkedin.com/in/limin-wang-phd/
 <!--
 **wanglmnju/wanglmnju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
